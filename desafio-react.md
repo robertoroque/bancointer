@@ -26,10 +26,9 @@ Além das informações, deve ter um botão na página para que um novo usuário
 A https://randomuser.me/ é uma API open-source e faz parte de um [projeto aberto](https://github.com/RandomAPI/Randomuser.me-Node). Caso tenha qualquer dificuldade em acesso ou utilização, entre em contato pelo e-mail que enviamos o desafio, que tentaremos te ajudar.
 
 ## Formato de Entrega
-Não temos exigência de formato para a entrega, mas recomendamos fortemente o uso do https://codesandbox.io/ que é uma ferramenta online em que você conseguirá codificar seu desafio sem precisar montar qualquer ambiente local. Também fica mais fácil de avaliarmos sua entrega.
 Esperamos que você nos entregue em um dos dois formatos (pode ser os dois):
 - Link de algum drive **público** (preferencialmente Gitlab/Github) com todo o seu código (recomendamos a entrega de um arquivo README com informações relevantes de como executarmos seu código), ou
-- Link do CodeSandbox para acessarmos sua entrega. Pode utilizar o link https://codesandbox.io/s/desafio-tecnico-react-001-1c2xb como exemplo.
+- Link do CodeSandbox para acessarmos sua entrega. Pode utilizar o link https://codesandbox.io/s/desafio-tecnico-react-001-1c2xb como exemplo. Recomendamos o uso do https://codesandbox.io/ que é uma ferramenta online em que você conseguirá codificar seu desafio sem precisar montar qualquer ambiente local. Também fica mais fácil de avaliarmos sua entrega.
 
 ## Prazo
 Você tem até **48 horas úteis** para a entrega desse desafio e pode ser entregue assim que você considerá-lo completo. _Se for necessário um prazo maior, pode entrar em contato por e-mail pra gente combinar._
